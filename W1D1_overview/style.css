@@ -1,0 +1,29 @@
+
+
+div.container{
+	border: 1px solid black;
+	padding:  1em;
+	position: absolute;
+	left: 50%;
+	/* comment */
+	margin-left: -10em;
+}
+
+div.container h1{
+	font-size: 16pt;
+	margin-bottom: 0px;
+}
+
+span.label {
+	display: inline-block;
+	width: 5em;
+}
+
+#submitbtn {
+	float: right;
+	margin-right: 1em;
+}
+
+div.#errors {
+	color: red;
+}

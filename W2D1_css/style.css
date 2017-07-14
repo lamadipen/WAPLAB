@@ -1,0 +1,19 @@
+div#outer{
+	color:red;
+}
+
+p#middle{
+	color: gray;
+}
+
+span#inner{
+	color:blue;
+}
+
+.a{
+	background-color: purple;
+}
+
+.b{
+	font-style: italic;: 
+}

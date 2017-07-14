@@ -1,0 +1,22 @@
+h1{
+	text-align:  center;
+	font-size: 22pt;
+	font-weight: bold;
+	color: #93a8ed;
+}
+
+body 
+{   
+    background-color: #423a39; 
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+ul, a{
+    text-decoration: none;
+	color: #fff;
+}
+a:hover
+{
+    text-decoration: underline;
+}

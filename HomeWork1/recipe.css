@@ -1,0 +1,43 @@
+body{
+ background-color: white;
+ color: #404040 ;
+ font-size: 11pt;
+ font-family: Georgia, Garamond, Serif;
+}
+
+
+.heading{
+	color: #A4A400;
+	background-color: #F0F0F0 ;	
+	font-family: "Lucida Sans Unicode", Helvetica, Arial;
+	text-decoration: underline;
+
+}
+
+h1{
+	text-align:  center;
+	font-size: 22pt;
+	font-weight: bold;
+
+}
+
+h2{
+		font-size: 18pt;
+}
+
+a{
+	color: #A4A400;
+}
+
+pre#copyright{
+	font-family: monospace;
+}
+
+blockquote{
+	background-color: #FFFFA8;
+	font-style: italic;
+}
+
+ul {
+    list-style-image: url('http://courses.cs.washington.edu/courses/cse190m/09sp/homework/1/pie_icon.gif');
+}
