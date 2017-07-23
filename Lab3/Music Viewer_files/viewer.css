@@ -46,10 +46,10 @@ li > ul {
 }
 
 .mp3item {
-	list-style-image: url(mp3icon.gif);
+	list-style-image: url(mp3icon.png);
 }
 
 .playlistitem {
-	list-style-image: url(playlisticon.gif);
+	list-style-image: url(playlisticon.png);
 }
 
