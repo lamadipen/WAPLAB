@@ -1,0 +1,47 @@
+Dipen Lama;MH;123456677;visa
+Dipen Lama;MA;123456677;mastercard
+Dipen Lama;MA;999999999999;mastercard
+Dipen Lama;MA;22222222222222;mastercard
+Dipen Lama;MA;33333333333333;mastercard
+;(Select a section);;
+;(Select a section);;
+;(Select a section);;
+;(Select a section);;
+ ;MA;;visa
+ ;MA;;visa
+a;(Select a section);;mastercard
+a;MA;;mastercard
+Dipen Lama;(Select a section);11111;visa
+Dipen Lama;MA;11111;visa
+Dipen Lama;;11111111;mastercard
+;;11111111;mastercard
+ ;;11111111;mastercard
+     ;MA;111111;mastercard
+       ;MA;11111;mastercard
+;MA;11111;mastercard
+;MA;11111;mastercard
+Dipen Lama;MA;9999999666666;mastercard
+Dipen Lama;MA;123;visa
+Dipen Lama;MA;1234567898765432;mastercard
+Dipen Lama;MA;66666666666666;visa
+Dipen Lama;MA;77555555555555;visa
+Dipen Lama;MA;234455556;mastercard
+Dipen Lama;MA;434455556;mastercard
+Dipen Lama;MA;434455556;visa
+Dipen Lama;MA;4344555563333336;visa
+Dipen Lama;MA;1223445667;mastercard
+Dipen Lama;MA;456789098765456789;mastercard
+Dipen Lama;MA;456789098765456789;visa
+Dipen Lama;MA;4567890987654321;visa
+Dipen Lama;MA;4567890987654321;mastercard
+Dipen Lama;MA;456789098765432123;visa
+Dipen Lama;MA;512312365236523621;mastercard
+Dipen Lama;MA;5123123652365236213;mastercard
+Dipen Lama;MA;4123123652365236213;visa
+Dipen Lama;MA;51231231231231236;mastercard
+Dipen Lama;MA;41231231231231236;visa
+Dipen Lama;MA;5123123123123123;mastercard
+Dipen Lama;MA;4123123123123123;visa
+Dipen Lama;MA;123232;visa
+Dipen Lama;MA;4408041254369873;visa
+Dipen Lama;MA;4408041254369873;visa
