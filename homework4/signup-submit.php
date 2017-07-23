@@ -8,7 +8,7 @@
 	$min = $_POST["min"];
 	$max = $_POST["max"];
 
-	$file_content = $name.",".$gender.",".$age.",".$personality.",".$os.",".$min.",".$max."\n";
+	$file_content = "\n".$name.",".$gender.",".$age.",".$personality.",".$os.",".$min.",".$max;
 
 	file_put_contents("singles.txt", $file_content,FILE_APPEND);
 

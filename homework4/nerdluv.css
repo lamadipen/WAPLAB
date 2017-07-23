@@ -105,3 +105,16 @@ footer {
 	font-size: x-small;
 	clear: both;
 }
+
+
+.six{
+	width: 6em;
+}
+
+.sixteen {
+	width: 16em;
+}
+
+.form_input{
+	margin-top: 3px;
+}

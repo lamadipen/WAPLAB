@@ -1,13 +1,12 @@
 <?php 
-	error_reporting(E_ALL);
-	$name = $_GET["name"];
+	$name = trim($_GET["name"]);
 
 	$all_singles = file_get_contents("singles.txt");
-
+	
 	$singles_array = explode("\n", $all_singles);
 
 	$my_choice = get_my_details($all_singles,$name);
-
+	
 	function get_my_details($all_singles, $name)
 	{
 		// escape special characters in the query

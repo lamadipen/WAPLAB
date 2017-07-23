@@ -8,26 +8,43 @@
 	<div>
 		<form method="post" action="signup-submit.php">
 			<fieldset>
-				<strong>Name:</strong>
-				<input type="input" name="name" maxlength="16">
-				<strong>Gender:</strong>
-				<label>Male</label>
-				<input type="radio" name="gender" value="M">
-				<label>Female</label>
-				<input type="radio" name="gender" value="F" checked>
-				<strong>Age:</strong>
-				<input type="input" name="age" maxlength="2">
-				<strong>Personality type:</strong  maxlength="2">
-				<input type="text" name="personality">
-				<select name="os">
-					<option value="Windows" selected>Windows</option>
-					<option value="Mac OS X">Mac OS X</option>
-					<option value="Linux">Linux</option>
-				</select>
-				<strong>Seeking age:</strong>
-				<input type="text" name="min"  maxlength="2" placeholder="min">
-				<input type="text" name="max"  maxlength="2" placeholder="max">
-				<input type="submit" name="Signup">
+				<legend>New User Signup:</legend>
+				<div class="form_input">
+					<strong class="column">Name:</strong>
+					<input type="input" name="name" maxlength="16" class="sixteen">	
+				</div>
+				<div class="form_input">
+					<strong class="column">Gender:</strong>
+					<input type="radio" name="gender" value="M">
+					<label>Male</label>
+					<input type="radio" name="gender" value="F" checked>
+					<label >Female</label>	
+				</div>
+				<div class="form_input">
+					<strong class="column">Age:</strong>
+					<input type="number" name="age" maxlength="2" class="six">
+				</div>
+				<div class="form_input">
+					<strong class="column">Personality type:</strong  maxlength="2">
+					<input type="text" name="personality" maxlength="4" class="six">
+					<a href="http://www.humanmetrics.com/cgi-win/JTypes2.asp .">Don't Know your type?</a>
+				</div>
+				<div class="form_input">
+					<strong class="column">Favorite OS:</strong>
+					<select name="os">
+						<option value="Windows" selected>Windows</option>
+						<option value="Mac OS X">Mac OS X</option>
+						<option value="Linux">Linux</option>
+					</select>
+				</div>
+				<div class="form_input">
+					<strong class="column">Seeking age:</strong>
+					<input type="number" name="min"  maxlength="2" placeholder="min" class="six"> to
+					<input type="number" name="max"  maxlength="2" placeholder="max" class="six">	
+				</div>
+				<div>
+					<input type="submit" value="Sign up">		
+				</div>
 			</fieldset>
 		</form>
 	</div>

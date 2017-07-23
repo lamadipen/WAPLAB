@@ -10,7 +10,7 @@
 			<legend>Returinig User:</legend>
 			<strong>Name:</strong>
 			<input type="text" name="name">
-			<input type="submit" value="View My Matches">
+			<input type="submit" value="View My Matches" class="form_input">
 		</fieldset>
 	</form>
 </div>
